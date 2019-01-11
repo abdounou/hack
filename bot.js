@@ -478,4 +478,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NTI3ODEzMjExMDA5OTc0Mjc2.DwZMHA.moLQadOA8MgTiWktkKaDSvj2xzE")
+LOka.login("NTI3ODEzMjExMDA5OTc0Mjc2.DxpYVg.fSUrqckKz-s4G3m4_qKK1nl5fZM")
